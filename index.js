@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["⚜️𝐃ᴋᴀᴛᴀɴᴀ Community","🌐?discord.gg/dkatana","ⓒPowered by 2ez4QiLL⚡"];
 
 
 let currentIndex = 0;
